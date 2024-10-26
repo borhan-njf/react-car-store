@@ -1,5 +1,5 @@
 import carsData from "../../data/carsData";
-import CarsPage from "../../components/templates/carsPage";
+import CarsPage from "../../components/templates/CarsPage";
 import Categories from "../../components/modules/Categories";
 import SearchBar from "../../components/modules/SearchBar";
 export default function Cars() {
