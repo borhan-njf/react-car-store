@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import carsData from "../../data/carsData";
-import CarsPage from "../../components/templates/carsPage";
 import BackBtn from "../../components/BackBtn";
+import CarsPage from "../../components/templates/CarsPage";
 export default function categoryType() {
   const router = useRouter();
   const carsType = router.query.catType;

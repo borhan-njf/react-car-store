@@ -1,4 +1,4 @@
-import CarsPage from "../../components/templates/carsPage";
+import CarsPage from "../../components/templates/CarsPage";
 import carsData from "../../data/carsData";
 import { useRouter } from "next/router";
 import BackBtn from '../../components/BackBtn'
